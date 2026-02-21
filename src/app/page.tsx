@@ -9,10 +9,10 @@ export default function Home() {
       <Image
         src="/clubhouse.png"
         alt="Hank's clubhouse"
-        width={600}
-        height={600}
+        width={1408}
+        height={768}
         priority
-        className="rounded-3xl shadow-2xl"
+        className="w-full max-w-4xl rounded-3xl shadow-2xl"
       />
     </div>
   );
