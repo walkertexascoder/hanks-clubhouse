@@ -7,10 +7,10 @@ export default function Home() {
         Hank&apos;s Clubhouse
       </h1>
       <Image
-        src="/clubhouse.png"
-        alt="Hank's clubhouse"
-        width={1408}
-        height={768}
+        src="/steve-chicken-smash.png"
+        alt="Minecraft Steve in Super Smash Bros"
+        width={1024}
+        height={1024}
         priority
         className="w-full max-w-4xl rounded-3xl shadow-2xl"
       />
